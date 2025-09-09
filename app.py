@@ -31,3 +31,4 @@ st.download_button(
 # --- Footer ---
 st.markdown("---")
 st.markdown("📝 *Prototype version – live scrapers & ECI data coming soon!*")
+print("abc")
